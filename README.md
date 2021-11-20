@@ -1,5 +1,6 @@
 # فیسکاپ چیست
-![Slider-01](https://user-images.githubusercontent.com/94538977/142716094-d8abd301-46a4-4cef-b58a-68eb109cc559.jpg)
+![Instagram posts-02](https://user-images.githubusercontent.com/94538977/142716356-bb99b88e-492e-45b9-8db8-04bc536c216c.jpg)
+
 
 مرکز نوآوری نکسترا با مشارکت پارک علم وفناوری دانشگاه تهران
 دومین دوره رویداد تخصصی فیسکاپ را برگزار می کند.  
